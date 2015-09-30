@@ -1,0 +1,5 @@
+dn: F5-monitoring,ou=special users,dc=project,dc=org
+objectclass: person
+cn: monitoring user
+sn: user
+userpassword: monitoring
