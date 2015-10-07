@@ -3,3 +3,4 @@ objectclass: person
 cn: monitoring user
 sn: user
 userpassword: monitoring
+description: example account to monitor an LDAP server
